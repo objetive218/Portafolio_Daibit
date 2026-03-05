@@ -1,8 +1,8 @@
 import ProjectCard from '../components/ProjectCard'
-import wedding from '../assets/wedding_project.png'
-import transaction from '../assets/transactional_platform.png'
-import countries from '../assets/countries.png'
-import eCommerce from '../assets/e-commerce.png'
+import wedding from '../assets/wedding_project.PNG'
+import transaction from '../assets/transactional_platform.PNG'
+import countries from '../assets/countries.PNG'
+import eCommerce from '../assets/e-commerce.PNG'
 
 
 const Projects = () => {
