@@ -6,8 +6,8 @@ import eCommerce from '../assets/e-commerce.PNG'
 
 
 const Projects = () => {
-    const dataProjects = [{ description: "Plataforma integral de invitaciones de boda digital con React.js, Node.js y MongoDB. Se diseñaron API RESTful personalizadas para facilitar la integración fluida de datos entre el front-end y el back-end, a la vez que se diseña un esquema de base de datos escalable.", title: "Invitación de boda digital", image: wedding, repo: "https://github.com/objetive218/WeddingInvitation", web: "https://weddinginvitationexample.netlify.app" }, {
-        description: "Rediseño completo de una plataforma transaccional utilizando React.js, Laravel y MySQL. Se diseñaron e implementaron APIs RESTful para facilitar la integración fluida de datos, a la vez que interfaces front-end de alto rendimiento.(Clave de prueba: 1234)", title: "Plataforma transaccional", image: transaction
+    const dataProjects = [{ description: "Plataforma integral de invitaciones de boda digital con React.js, Node.js y MongoDB. Se diseñaron API RESTful personalizadas para facilitar la integración fluida de datos entre el front-end y el back-end, a la vez que se diseña un esquema de base de datos escalable.(Clave de prueba: 1234)", title: "Invitación de boda digital", image: wedding, repo: "https://github.com/objetive218/WeddingInvitation", web: "https://weddinginvitationexample.netlify.app" }, {
+        description: "Rediseño completo de una plataforma transaccional utilizando React.js, Laravel y MySQL. Se diseñaron e implementaron APIs RESTful para facilitar la integración fluida de datos, a la vez que interfaces front-end de alto rendimiento.", title: "Plataforma transaccional", image: transaction
     },
         //  {
         //     description: "Aplicación web que muestra información detallada de países utilizando React.js y una API pública. Se implementaron características como búsqueda, filtrado, modo oscuro y paginación para mejorar la experiencia del usuario.", title: "Buscador de paises", image: countries, repo: "https://github.com/objetive218/Countries-Challenge", web: "https://country-challenge-objetive.netlify.app"
